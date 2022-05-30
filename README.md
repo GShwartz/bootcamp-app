@@ -1,3 +1,16 @@
+# Project POC
+Local App <br />
+<img src=https://i.postimg.cc/9QrdtRXg/weight-tracker.jpg> <br />
+
+Remote App - logged in<br />
+<img src=https://i.postimg.cc/yxpJkjR1/webapp-logged.jpg> <br />
+
+Remote DB POC <br />
+<img src=https://i.postimg.cc/hPHj6fb5/webapp-db.jpg> <br />
+
+Postgres on Remote Docker <br />
+<img src=https://i.postimg.cc/K4X2qgS7/postgres-docker-Container.jpg>
+
 # Node.js Weight Tracker
 
 ![Demo](docs/build-weight-tracker-app-demo.gif)
